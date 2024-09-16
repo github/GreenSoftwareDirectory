@@ -102,9 +102,9 @@ We are looking for projects that:
 - Are actively being used or developed.
 - Can be used and/or extended by others.
 
-To add to GitHub's Green Software Directory, 
+To add to GitHub's Green Software Directory: 
 - Create a fork of this project.
 - Add your project in the following format: [Project Name](Project URL) - A sentence that describes your project.
 - Describe in at least one sentence why you think your project is relevent to the list.
 - Create a pull request and wait for the response of a repo maintainer.
-- Further details on how do pull requests can be found in the official [GitHub documentation](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request).
+- Further details on how create pull requests can be found in the official [GitHub documentation](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request).
