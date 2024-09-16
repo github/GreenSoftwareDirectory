@@ -60,7 +60,7 @@ Do you know of an incredible green software repository that we missed? Let us kn
 - [Energy-Languages](https://github.com/greensoftwarelab/Energy-Languages): The complete set of tools for energy consumption analysis of programming languages, using Computer Language Benchmark Game.
 - [Coppers](https://github.com/ThijsRay/coppers): Measure energy consumption of unit tests, Rust.
 - [Cloud-jewels](https://github.com/etsy/cloud-jewels): Estimate energy consumption using GCP Billing Data.
-- [Green-algorithms-tool](https://github.com/GreenAlgorithms/green-algorithms-tool)
+- [Green-algorithms-tool](https://github.com/GreenAlgorithms/green-algorithms-tool): The Green Algorithms project aims at promoting more environmentally sustainable computational science. It regroups calculators that researchers can use to estimate the carbon footprint of their projects, tips on how to be more environmentally friendly, training material, past talks etc.
 - [Carbonara](https://github.com/digital4better/carbonara/): This is a custom element to compute web navigation carbon footprint.
 - [Cpu-energy-meter](https://github.com/sosy-lab/cpu-energy-meter): A tool for measuring energy consumption of Intel CPUs.
 - [IF](https://github.com/Green-Software-Foundation/if): GSF Impact Framework for environmental impacts of software - fits as a tool; note experimental incubation project
@@ -94,7 +94,7 @@ Do you know of an incredible green software repository that we missed? Let us kn
 - [Ipmitool](https://github.com/ipmitool/ipmitool): An open-source tool for controlling IPMI-enabled systems 
 - gets the power consumption of a bare metal machine.
 - [Ethereum-nft-activity](https://github.com/kylemcdonald/ethereum-nft-activity): How much energy does it take to power popular Ethereum-backed CryptoArt platforms? And what emissions are associated with this energy use?
-- [Carbon.txt](https://github.com/thegreenwebfoundation/carbon.txt)
+- [Carbon.txt](https://github.com/thegreenwebfoundation/carbon.txt): A proposed convention for making it possible demonstrate that your infrastucture uses green power.
   
 ---
 ### Contributing to GitHub's Green Software Directory
