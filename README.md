@@ -1,7 +1,7 @@
 # GitHub's Green Software Directory
-GitHub's Green Software Directory is a simple and easy-to-use resource that developers can use to adopt green software tools. This list aims to help any developer find green software projects available on GitHub.
+GitHub's Green Software Directory is a simple and easy-to-use resource that all developers can use to adopt green software tools. This list aims to help any developer find green software projects available on GitHub.
 
-This list is managed by GitHub Sustainability.
+This list is managed by GitHub Sustainability with the Social Impact Team.
 
 ## What is “Green Software”?
 Green software meets all of our modern needs while being carbon aware and efficient. Only three activities reduce the carbon emissions of software: energy efficiency, carbon awareness, and hardware efficiency.
@@ -9,7 +9,7 @@ Green software meets all of our modern needs while being carbon aware and effici
 As technology industry energy use grows, we believe we have a responsibility to help support sustainable practices so that we can reduce the environmental impact of software we build.
 
 ![climate-indicators](https://github.com/user-attachments/assets/acf6befb-2461-4904-b195-9fc592810504)
-Image source: Open access [climate visuals](https://github.com/ed-hawkins/climate-visuals) on GitHub from Ed Hawkins
+Image source: Open access [climate visuals](https://github.com/ed-hawkins/climate-visuals) on GitHub from Ed Hawkins.
 
 ## Our Directory
 We reviewed all repositories on GitHub that self-identified as being a green software tool as their primary purpose. We compiled these into a directory of resources built by our community, for our community. 
