@@ -104,7 +104,7 @@ We are looking for projects that:
 
 To add to GitHub's Green Software Directory: 
 - Create a fork of this project.
+- Create a new branch
 - Add your project in the following format: [Project Name](Project URL) - A sentence that describes your project.
-- Describe in at least one sentence why you think your project is relevent to the list.
-- Create a pull request and wait for the response of a repo maintainer.
+- Create a pull request and wait for your pull request to be reviewed and merged.
 - Further details on how create pull requests can be found in the official [GitHub documentation](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request).
