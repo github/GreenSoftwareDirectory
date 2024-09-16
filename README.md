@@ -98,11 +98,8 @@ Do you know of an incredible green software repository that we missed? Let us kn
   
 ---
 ### Contributing to GitHub's Green Software Directory
-We are looking for projects that:
-- Are actively being used or developed.
-- Can be used and/or extended by others.
+We are looking for projects that are actively being used/developed and can be used by others.
 
-To add to GitHub's Green Software Directory: 
 - Create a fork of this project.
 - Create a new branch
 - Add your project in the following format: [Project Name](Project URL) - A sentence that describes your project.
