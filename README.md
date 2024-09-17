@@ -1,9 +1,9 @@
-# GitHub's Green Software Directory
-GitHub's Green Software Directory is a simple and easy-to-use resource that all developers can use to adopt green software tools. This list aims to help any developer find green software projects available on GitHub.
+![GitHubGSD](https://github.com/user-attachments/assets/61eb0a79-1e91-4ae9-859f-0c4a2e368b37)
 
-This list is managed by GitHub Sustainability with the Social Impact Team.
+---
+## GitHub's Green Software Directory is a simple and easy-to-use resource that all developers can use to adopt green software tools. This list aims to help any developer find green software projects available on GitHub. 
 
-## What is “Green Software”?
+### What is “Green Software”?
 Green software meets all of our modern needs while being carbon aware and efficient. Only three activities reduce the carbon emissions of software: energy efficiency, carbon awareness, and hardware efficiency.
 
 As technology industry energy use grows, we believe we have a responsibility to help support sustainable practices so that we can reduce the environmental impact of software we build.
@@ -12,13 +12,13 @@ As technology industry energy use grows, we believe we have a responsibility to 
 Image source: Open access [climate visuals](https://github.com/ed-hawkins/climate-visuals) on GitHub from Ed Hawkins.
 
 ## Our Directory
-We reviewed all repositories on GitHub that self-identified being a green software tool as their primary purpose. We compiled these into a directory of resources built by our community, for our community. 
+We reviewed all repositories on GitHub that self-identified being a green software tool as their primary purpose. We compiled these into a directory of resources built by our community, for our community. This list is managed by GitHub Sustainability with the Social Impact Team.
 
-Categories:
-- [Measurement](#measurement)
-- [Carbon Efficiency](#carbon-efficiency)
-- [Carbon Awareness](#carbon-awareness)
-- [Special Tools](#special-tools)
+**Categories:**
+- **[Measurement](#measurement)**
+- **[Carbon Efficiency](#carbon-efficiency)**
+- **[Carbon Awareness](#carbon-awareness)**
+- **[Special Tools](#special-tools)**
 
 Do you know of an incredible green software repository that we missed? Let us know! This list is meant to continually grow and develop, so we welcome any suggestions from our community on how we can improve it. Create a [pull request](#contributing-to-githubs-green-software-directory) with a brief explanation to add a new project.
 
