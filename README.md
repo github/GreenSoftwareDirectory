@@ -12,7 +12,11 @@ As technology industry energy use grows, we believe we have a responsibility to 
 Image source: Open access [climate visuals](https://github.com/ed-hawkins/climate-visuals) on GitHub from Ed Hawkins.
 
 ## Our Directory
-We reviewed all repositories on GitHub that self-identified being a green software tool as their primary purpose and compiled these into a directory of resources built by our community, for our community. We were particularly inspired by the Green Software Foundation's [awesome-green-software](https://github.com/green-software-foundation/awesome-green-software) list, a valuable resource developed by community over the past few years. This list is managed by GitHub Sustainability with the Social Impact Team.
+We reviewed all repositories on GitHub that self-identified being a green software tool as their primary purpose. We compiled these into a directory of resources built by our community, for our community. 
+
+We were particularly inspired by the Green Software Foundation's [awesome-green-software](https://github.com/green-software-foundation/awesome-green-software) list, a valuable resource that has been developed by the Green Software Foundation community over the past few years. 
+
+This list is managed by GitHub Sustainability with the Social Impact Team.
 
 **Categories:**
 - **[Measurement](#measurement)**
