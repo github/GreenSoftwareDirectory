@@ -67,7 +67,7 @@ Do you know of an incredible green software repository that we missed? Let us kn
 - [Green-algorithms-tool](https://github.com/GreenAlgorithms/green-algorithms-tool): The Green Algorithms project aims at promoting more environmentally sustainable computational science. It regroups calculators that researchers can use to estimate the carbon footprint of their projects, tips on how to be more environmentally friendly, training material, past talks etc.
 - [Carbonara](https://github.com/digital4better/carbonara/): This is a custom element to compute web navigation carbon footprint.
 - [Cpu-energy-meter](https://github.com/sosy-lab/cpu-energy-meter): A tool for measuring energy consumption of Intel CPUs.
-- [IF](https://github.com/Green-Software-Foundation/if): GSF Impact Framework for environmental impacts of software - fits as a tool; note experimental incubation project
+- [IF](https://github.com/Green-Software-Foundation/if): GSF Impact Framework for environmental impacts of software.
 
 ## Carbon Efficiency
 > Start making changes to your software and architecture to use less energy and emit less carbon.
