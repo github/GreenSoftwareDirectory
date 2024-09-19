@@ -6,13 +6,13 @@
 ### What is “Green Software”?
 Green software meets all of our modern needs while being carbon aware and efficient. Only three activities reduce the carbon emissions of software: energy efficiency, carbon awareness, and hardware efficiency.
 
-As technology industry energy use grows, we believe we have a responsibility to help support sustainable practices so that we can reduce the environmental impact of software we build.
+As technology industry energy use grows, we believe we have a responsibility to help support sustainable practices and reduce the environmental impact of software we build.
 
 ![climate-indicators](climateindicators.jpeg)
 Image source: Open access [climate visuals](https://github.com/ed-hawkins/climate-visuals) on GitHub from Ed Hawkins.
 
 ## Our Directory
-We reviewed all repositories on GitHub that self-identified being a green software tool as their primary purpose. We compiled these into a directory of resources built by our community, for our community. 
+We reviewed all repositories on GitHub that self-identified being green software tools as their primary purpose. We compiled these into a directory of resources built by our community, for our community. 
 
 We were particularly inspired by the Green Software Foundation's [awesome-green-software](https://github.com/green-software-foundation/awesome-green-software) list, a valuable resource that has been developed by the Green Software Foundation community over the past few years. 
 
@@ -36,14 +36,14 @@ Do you know of an incredible green software repository that we missed? Let us kn
 - [CO2.js](https://github.com/thegreenwebfoundation/co2.js/): An open-source JavaScript library that enables you to estimate the carbon emissions produced by transferring bytes of data on the internet, get different forms of grid intensity data such as annual average and marginal data by country, and make automated queries against Green Web Foundation’s Green Domain’s dataset.
 - [Carbontracker](https://github.com/lfwa/carbontracker): Track and predict the energy consumption and carbon footprint of training deep learning models.
 - [Experiment-impact-tracker](https://github.com/Breakend/experiment-impact-tracker): A simple drop-in method to track energy usage, carbon emissions, and compute utilization of your system.
-- [Eco2AI](https://github.com/sb-ai-lab/Eco2AI): The Eco2AI is a python library for CO2 emission tracking. It monitors energy consumption of CPU & GPU devices and estimates equivalent carbon emissions taking into account the regional emission coefficient. The Eco2AI is applicable to all python scripts and all you need is to add the couple of strings to your code. All emissions data and information about your devices are recorded in a local file.
+- [Eco2AI](https://github.com/sb-ai-lab/Eco2AI): The Eco2AI is a Python library for CO2 emission tracking. It monitors energy consumption of CPU & GPU devices and estimates equivalent carbon emissions taking into account the regional emission coefficient. The Eco2AI is applicable to all Python scripts and all you need is to add the couple of strings to your code. All emissions data and information about your devices are recorded in a local file.
 - [Greenframe-cli](https://github.com/marmelab/greenframe-cli): Estimate carbon footprint of a user scenario on a web application.
 - [Impact](https://github.com/mlco2/impact/): ML has an impact on the climate, but not all models are born equal. Calculate machine learning emissions and add the results to your paper with this generated latex template.
 - [Zeus](https://github.com/ml-energy/zeus): Zeus is a library for (1) measuring the energy consumption of Deep Learning workloads and (2) optimizing their energy consumption.
 - [Powerapi](https://github.com/powerapi-ng/powerapi): PowerAPI is a middleware toolkit for building software-defined power meters. Software-defined power meters are configurable software libraries that can estimate the power consumption of software in real-time. PowerAPI supports the acquisition of raw metrics from a wide diversity of sensors (eg., physical meters, processor interfaces, hardware counters, OS counters) and the delivery of power consumptions via different channels (including file system, network, web, graphical). As a middleware toolkit, PowerAPI offers the capability of assembling power meters «à la carte» to accommodate user requirements.
 - [Green-cost-explorer](https://github.com/thegreenwebfoundation/green-cost-explorer): See how much of your cloud bill is spent on fossil fuels, so you can do the right thing and switch. We're in a climate crisis, remember? This will show you your climate-related spend analysis for AWS.
 - [Green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool): Measures the energy and CO2 consumption of software through a software life cycle analysis (SLCA).
-- [Carbonalyser](https://github.com/carbonalyser/Carbonalyser): The add-on "Carbonalyser" allows to visualize the electricity consumption and greenhouse gases (GHG) emissions that your Internet browsing leads to.
+- [Carbonalyser](https://github.com/carbonalyser/Carbonalyser): The add-on "Carbonalyser" allows you to visualize the electricity consumption and greenhouse gases (GHG) emissions that your Internet browsing leads to.
 - [GreenIT-Analysis](https://github.com/cnumr/GreenIT-Analysis): GreenIT-Analysis est une extension pour navigateur qui vous permet de quantifier les impacts environnementaux d'un parcours utilisateur complet, même derrière un firewall et / ou une authentification applicative. L'outil vérifie également l'utilisation de bonnes pratiques visant à diminuer ces impacts.
 - [Tracarbon](https://github.com/fvaleye/tracarbon): Tracarbon tracks your device's energy consumption and calculates your carbon emissions using your location.
 - [Carbonifer](https://github.com/carboniferio/carbonifer): Command Line Tool to control carbon emission of your cloud infrastructure. Reading Terraform files, carbonifer plan will estimate future Carbon Emissions of infrastructure and help make the right choices to reduce Carbon footprint.
@@ -106,5 +106,5 @@ We are looking for projects that are actively being used/developed and can be us
 - Create a fork of this project.
 - Create a new branch
 - Add your project to a relevant category in the following format: [Project Name](Project URL) - A sentence that describes your project.
-- Create a pull request and wait for your pull request to be reviewed and merged.
+- Create a pull request and wait for it to be reviewed and merged.
 - Further details on how create pull requests can be found in the official [GitHub documentation](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request).
