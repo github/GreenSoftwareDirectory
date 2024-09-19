@@ -8,7 +8,7 @@ Green software meets all of our modern needs while being carbon aware and effici
 
 As technology industry energy use grows, we believe we have a responsibility to help support sustainable practices so that we can reduce the environmental impact of software we build.
 
-![climate-indicators](https://github.com/user-attachments/assets/acf6befb-2461-4904-b195-9fc592810504)
+![climate-indicators](climateindicators.jpeg)
 Image source: Open access [climate visuals](https://github.com/ed-hawkins/climate-visuals) on GitHub from Ed Hawkins.
 
 ## Our Directory
