@@ -14,7 +14,7 @@ Image source: Open access [climate visuals](https://github.com/ed-hawkins/climat
 ## Our Directory
 We reviewed all repositories on GitHub that self-identified being green software tools as their primary purpose. We compiled these into a directory of resources built by our community, for our community. 
 
-We were particularly inspired by the Green Software Foundation's [awesome-green-software](https://github.com/green-software-foundation/awesome-green-software) list, a valuable resource that has been developed by the Green Software Foundation community over the past few years. 
+We were particularly inspired by the Green Software Foundation's [awesome-green-software](https://github.com/green-software-foundation/awesome-green-software) list, a valuable resource that has been developed by the Green Software Foundation community over the past few years, and the [Open Sustainable Technology](https://github.com/protontypes/open-sustainable-technology) directory. 
 
 This list is managed by GitHub Sustainability with the Social Impact Team.
 
