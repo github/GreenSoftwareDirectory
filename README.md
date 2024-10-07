@@ -1,4 +1,4 @@
-![GitHubGSD](https://github.com/user-attachments/assets/61eb0a79-1e91-4ae9-859f-0c4a2e368b37)
+![GitHubGSD](https://github.blog/wp-content/uploads/2024/09/1200x630-GHNonprofits_BlogB.png?w=1600)
 
 ---
 ## GitHub's Green Software Directory is a simple and easy-to-use resource that all developers can use to adopt green software tools. This list aims to help any developer find green software projects available on GitHub. 
