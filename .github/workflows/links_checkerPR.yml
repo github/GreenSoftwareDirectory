@@ -1,0 +1,58 @@
+name: "Check docs links"
+
+on:
+  workflow_dispatch:
+  pull_request:
+    paths:
+      - "README.md"
+      - ".github/workflows/links_checkerPR.yml"
+
+jobs:
+  linkChecker:
+    if: github.actor != 'dependabot[bot]' 
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Link Checker
+        id: lychee
+        uses: lycheeverse/lychee-action@v1  
+
+      - name: Read link checker output
+        id: read_links
+        run: |
+          error_count=$(grep -c "🚫 Errors" ./lychee/out.md)  # Count errors
+          echo "error_count=$error_count" >> $GITHUB_ENV  # Set error count
+          if [ "$error_count" -gt 0 ]; then
+            echo "broken_links<<EOF" >> $GITHUB_ENV
+            cat ./lychee/out.md >> $GITHUB_ENV  # Set broken links detail
+            echo "EOF" >> $GITHUB_ENV
+          else
+            echo "broken_links=All links in the README.md are working fine! 🎉" >> $GITHUB_ENV
+          fi
+        shell: bash
+
+      - name: Set output for error count
+        run: echo "::set-output name=error_count::${{ env.error_count }}"
+
+      - name: Create or Update Comment - No Broken Links
+        if: env.lychee_exit_code == '0'  # Run if there are no broken links
+        uses: peter-evans/create-or-update-comment@v4
+        with:
+          issue-number: ${{ github.event.pull_request.number }}
+          body: |
+            **Link Checker Report:**  
+            All links in the README.md are working fine! 🎉
+          reactions: hooray  # React with a 'hooray' if there are no broken links
+
+      - name: Create or Update Comment - Summary of Broken Links
+        if: env.lychee_exit_code != '0'  # Run if there are broken links
+        uses: peter-evans/create-or-update-comment@v4
+        with:
+          issue-number: ${{ github.event.pull_request.number }}
+          body: |
+            **Link Checker Report:**  
+            The following links are broken in the README.md:  
+            ```markdown
+            ${{ env.broken_links }}
+            ```
