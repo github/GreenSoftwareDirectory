@@ -76,6 +76,7 @@ Do you know of an incredible green software repository that we missed? Let us kn
 - [BoaviztAPI](https://github.com/Boavizta/boaviztapi): Multi-criteria environmental impacts of IT resources taking into account hardware manufacturing and usage as a self-hostable API.
 - [ecobenchmark-applicationweb-backend](https://github.com/Boavizta/ecobenchmark-applicationweb-backend): Benchmarking different webapp scenario to compare energy consumption on several programming languages and dev practices.
 - [Aether](https://github.com/re-cinq/aether): Aether is a calculation engine that uses metrics of infrastructure and calculates emissions in real-time based on factors.
+- [Resilio Databse](https://db.resilio.tech/): Use state-of-the-art footprint data for IT equipment and infrastructure — from smartphones to virtual machines. The database to plug to your assessment tool or service!
 
 ## Carbon Efficiency
 > Start making changes to your software and architecture to use less energy and emit less carbon.
