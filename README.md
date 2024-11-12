@@ -28,7 +28,7 @@ Do you know of an incredible green software repository that we missed? Let us kn
 
 ## Measurement
 > Help measure and interpret the impact of emissions and the environmental impact of software use.
-- [Scaphadre](https://github.com/hubblo-org/scaphandre): Scaphandre [skafɑ̃dʁ] is a metrology agent dedicated to electric power and energy consumption metrics. Use it to measure the power consumption of your tech services and get this data in a convenient form, sending it through any monitoring or data analysis toolchain.
+- [Scaphandre](https://github.com/hubblo-org/scaphandre): Scaphandre [skafɑ̃dʁ] is a metrology agent dedicated to electric power and energy consumption metrics. Use it to measure the power consumption of your tech services and get this data in a convenient form, sending it through any monitoring or data analysis toolchain.
 - [Kepler](https://github.com/sustainable-computing-io/kepler): Kepler (Kubernetes-based Efficient Power Level Exporter) uses eBPF to probe performance counters and other system stats, uses ML models to estimate workload energy consumption based on these stats, and then exports them as Prometheus metrics. Use it to learn about energy consumption of Kubernetes components such as Pods and Nodes.
 - [Codecarbon](https://github.com/mlco2/codecarbon): A Python package that estimates your hardware electricity power consumption (GPU + CPU + RAM) and then applies to it the carbon intensity of the region where the computing is done.
 - [Cloud-carbon-footprint](https://github.com/cloud-carbon-footprint/cloud-carbon-footprint): A tool to estimate energy use (kilowatt-hours) and carbon emissions (metric tons CO2e) from public cloud usage.
