@@ -113,7 +113,7 @@ Do you know of an incredible green software repository that we missed? Let us kn
 We are looking for projects **on GitHub** that are actively being used/developed and can be used by others.
 
 - Create a fork of this project.
-- Create a new branch
+- Create a new branch.
 - Add your project to a relevant category in the following format: [Project Name](Project URL) - A sentence that describes your project.
 - Create a pull request and wait for it to be reviewed and merged.
 - Further details on how create pull requests can be found in the official [GitHub documentation](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request).
