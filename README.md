@@ -1,4 +1,4 @@
-![GitHubGSD](https://github.blog/wp-content/uploads/2024/09/1200x630-GHNonprofits_BlogB.png?w=1600)
+![GitHub's Green Software Directory](https://github.blog/wp-content/uploads/2024/09/1200x630-GHNonprofits_BlogB.png?w=1600)
 
 ---
 ## GitHub's Green Software Directory is a simple and easy-to-use resource that all developers can use to adopt green software tools. This list aims to help any developer find green software projects available on GitHub. 
@@ -8,7 +8,7 @@ Green software meets all of our modern needs while being carbon aware and effici
 
 As technology industry energy use grows, we believe we have a responsibility to help support sustainable practices and reduce the environmental impact of software we build.
 
-![climate-indicators](climateindicators.jpeg)
+![Graph titled "Changes emerging across the climate system," which shows indicators like carbon dioxide increasing, ocean warming, and sea level rising over time.](climateindicators.jpeg)
 Image source: Open access [climate visuals](https://github.com/ed-hawkins/climate-visuals) on GitHub from Ed Hawkins.
 
 ## Our Directory
