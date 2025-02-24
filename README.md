@@ -23,6 +23,7 @@ This list is managed by GitHub Sustainability with the Social Impact Team.
 - **[Carbon Efficiency](#carbon-efficiency)**
 - **[Carbon Awareness](#carbon-awareness)**
 - **[Special Tools](#special-tools)**
+- **[Documentation](#documentation)**
 
 Do you know of an incredible green software repository that we missed? Let us know! This list is meant to continually grow and develop, so we welcome any suggestions from our community on how we can improve it. Create a [pull request](#contributing-to-githubs-green-software-directory) with a brief explanation to add a new project.
 
@@ -107,7 +108,10 @@ Do you know of an incredible green software repository that we missed? Let us kn
 - [Ipmitool](https://github.com/ipmitool/ipmitool): An open-source tool for controlling IPMI-enabled systems that gets the power consumption of a bare metal machine.
 - [Ethereum-nft-activity](https://github.com/kylemcdonald/ethereum-nft-activity): How much energy does it take to power popular Ethereum-backed CryptoArt platforms? And what emissions are associated with this energy use?
 - [Carbon.txt](https://github.com/thegreenwebfoundation/carbon.txt): A proposed convention for making it possible demonstrate that your infrastucture uses green power.
-  
+
+## Documentation
+- [Awesome Go-Green 🌳](https://github.com/sarvsav/awesome-go-green) Source of events, tools with examples, podcasts, trainings and books.
+
 ---
 ### Contributing to GitHub's Green Software Directory
 We are looking for projects **on GitHub** that are actively being used/developed and can be used by others.
