@@ -110,7 +110,7 @@ Do you know of an incredible green software repository that we missed? Let us kn
 - [Carbon.txt](https://github.com/thegreenwebfoundation/carbon.txt): A proposed convention for making it possible demonstrate that your infrastucture uses green power.
 
 ## Documentation
-- [Awesome Go-Green 🌳](https://github.com/sarvsav/awesome-go-green) Source of events, tools with examples, podcasts, trainings and books.
+- [Awesome Go-Green 🌳](https://github.com/sarvsav/awesome-go-green) Source of events, tools with examples, podcasts, trainings and books related to green software practices.
 
 ---
 ### Contributing to GitHub's Green Software Directory
