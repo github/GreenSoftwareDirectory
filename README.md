@@ -77,6 +77,7 @@ Do you know of an incredible green software repository that we missed? Let us kn
 - [ecobenchmark-applicationweb-backend](https://github.com/Boavizta/ecobenchmark-applicationweb-backend): Benchmarking different webapp scenario to compare energy consumption on several programming languages and dev practices.
 - [Aether](https://github.com/re-cinq/aether): Aether is a calculation engine that uses metrics of infrastructure and calculates emissions in real-time based on factors.
 - [Cloud Assess](https://github.com/kleis-technology/cloud-assess): The next generation cloud carbon calculator: an open source tool to automatically assess your environmental footprint as a cloud service provider.
+- [AI Wattch](https://github.com/AIWattch/browser-extension): AI Wattch is a Chrome browser extension that estimates the carbon emissions of your ChatGPT conversations in real time.
 
 ## Carbon Efficiency
 > Start making changes to your software and architecture to use less energy and emit less carbon.
