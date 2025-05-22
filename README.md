@@ -82,6 +82,7 @@ Do you know of an incredible green software repository that we missed? Let us kn
 - [PowerLetrics](https://github.com/green-kernel/powerletrics): PowerLetrics is an open-source framework designed to monitor and analyze power consumption metrics at the process level on Linux.
 - [EcoSurf Analyser](https://github.com/les-enovateurs/estimate-good-website): A browser extension that provides sustainability scores for websites, helping users understand the environmental impact of their browsing habits.
 - [AI Wattch](https://github.com/AIWattch/browser-extension): AI Wattch is a Chrome browser extension that estimates the carbon emissions of your ChatGPT conversations in real time.
+- TCS Estimator](https://github.com/ScottLogic/sl-tech-carbon-estimator): Mapping an organisations technology emissions using the Tech Carbon Standard structure (see below for more details on TCS itself)
 
 ## Carbon Efficiency
 > Start making changes to your software and architecture to use less energy and emit less carbon.
@@ -115,6 +116,7 @@ Do you know of an incredible green software repository that we missed? Let us kn
 - [Ipmitool](https://github.com/ipmitool/ipmitool): An open-source tool for controlling IPMI-enabled systems that gets the power consumption of a bare metal machine.
 - [Ethereum-nft-activity](https://github.com/kylemcdonald/ethereum-nft-activity): How much energy does it take to power popular Ethereum-backed CryptoArt platforms? And what emissions are associated with this energy use?
 - [Carbon.txt](https://github.com/thegreenwebfoundation/carbon.txt): A proposed convention for making it possible demonstrate that your infrastucture uses green power.
+- [Tech Carbon Standard](https://github.com/ScottLogic/Technology-Carbon-Standard): Proposed Technology Carbon Standard that aims to provide a unified structure for understanding, quantifying, and reducing carbon emissions from an organisation's technology landscape.
   
 ---
 ### Contributing to GitHub's Green Software Directory
