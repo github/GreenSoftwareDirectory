@@ -115,6 +115,7 @@ Do you know of an incredible green software repository that we missed? Let us kn
 - [Ipmitool](https://github.com/ipmitool/ipmitool): An open-source tool for controlling IPMI-enabled systems that gets the power consumption of a bare metal machine.
 - [Ethereum-nft-activity](https://github.com/kylemcdonald/ethereum-nft-activity): How much energy does it take to power popular Ethereum-backed CryptoArt platforms? And what emissions are associated with this energy use?
 - [Carbon.txt](https://github.com/thegreenwebfoundation/carbon.txt): A proposed convention for making it possible demonstrate that your infrastucture uses green power.
+- [CarbonRunner](https://carbonrunner.io/): CarbonRunner automatically shifts compute, whether AI training or GitHub Actions, to the lowest-carbon regions across AWS, Azure, GCP and Heata in real time, cutting emissions by up to 90% compared to default GitHub Actions. With built-in ESG reporting, companies gain clear visibility into their cloud emissions and costs, while workloads are scheduled with water scarcity in mind and never run on servers above 100gCO₂/kWh. CarbonRunner brings measurement, carbon efficiency and carbon-aware orchestration together in one platform, making it easy to track existing workflows on GitHub, GitLab or Bitbucket and run them more sustainably.
   
 ---
 ### Contributing to GitHub's Green Software Directory
