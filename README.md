@@ -68,6 +68,7 @@ Do you know of an incredible green software repository that we missed? Let us kn
 - [Carbonara](https://github.com/digital4better/carbonara/): This is a custom element to compute web navigation carbon footprint.
 - [Cpu-energy-meter](https://github.com/sosy-lab/cpu-energy-meter): A tool for measuring energy consumption of Intel CPUs.
 - [IF](https://github.com/Green-Software-Foundation/if): GSF Impact Framework for environmental impacts of software.
+- [Carmen](https://github.com/Green-Software-Foundation/if-carmen): Carmen (Carbon Measurement Engine) is an open-source tool by the Green Software Foundation that enables organizations to measure the carbon footprint of their cloud-based software at two critical levels: infrastructure and application. 
 - [Experiment Runner](https://github.com/S2-group/experiment-runner): The Experiment Runner provides a framework for automatically executing measurement-based experiments on any platform with dedicated plugins for energy related metrics collection.
 - [Android Runner](https://github.com/S2-group/android-runner): The Android Runner provides a framework for automatically executing measurement-based experiments on native and web applications running on Android devices with dedicated plugins for energy related metrics collection.
 - [Robot Runner](https://github.com/S2-group/robot-runner): The Robot Runner provides a framework for automatically executing measurement-based experiments on robotics software with dedicated plugins for energy related metrics collection.
