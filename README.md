@@ -83,6 +83,7 @@ Do you know of an incredible green software repository that we missed? Let us kn
 - [PowerLetrics](https://github.com/green-kernel/powerletrics): PowerLetrics is an open-source framework designed to monitor and analyze power consumption metrics at the process level on Linux.
 - [EcoSurf Analyser](https://github.com/les-enovateurs/estimate-good-website): A browser extension that provides sustainability scores for websites, helping users understand the environmental impact of their browsing habits.
 - [AI Wattch](https://github.com/AIWattch/browser-extension): AI Wattch is a Chrome browser extension that estimates the carbon emissions of your ChatGPT conversations in real time.
+- [EnergiBridge](https://github.com/tdurieux/EnergiBridge): A cross-platform tool designed to measure the energy consumption of software across various operating systems and hardware architectures. It simplifies the process of gathering energy data, aiding developers in creating more sustainable software solutions.
 - [TCS Estimator](https://github.com/ScottLogic/sl-tech-carbon-estimator): Mapping an organization’s technology emissions using the Tech Carbon Standard structure.
 
 ## Carbon Efficiency
