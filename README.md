@@ -83,6 +83,7 @@ Do you know of an incredible green software repository that we missed? Let us kn
 - [PowerLetrics](https://github.com/green-kernel/powerletrics): PowerLetrics is an open-source framework designed to monitor and analyze power consumption metrics at the process level on Linux.
 - [EcoSurf Analyser](https://github.com/les-enovateurs/estimate-good-website): A browser extension that provides sustainability scores for websites, helping users understand the environmental impact of their browsing habits.
 - [AI Wattch](https://github.com/AIWattch/browser-extension): AI Wattch is a Chrome browser extension that estimates the carbon emissions of your ChatGPT conversations in real time.
+- [TCS Estimator](https://github.com/ScottLogic/sl-tech-carbon-estimator): Mapping an organization’s technology emissions using the Tech Carbon Standard structure.
 
 ## Carbon Efficiency
 > Start making changes to your software and architecture to use less energy and emit less carbon.
@@ -94,7 +95,8 @@ Do you know of an incredible green software repository that we missed? Let us kn
 - [Ecocode-mobile](https://github.com/green-code-initiative/ecocode-mobile): Mobile apps running on top of battery-limited, android-powered devices are more than others concerned by the reduction of their environmental footprint. Hence, we created ecoCode android, the version of ecoCode project fully dedicated to the Android platform. It provides static code analyzers to highlight code structures that may have a negative ecological impact: energy over-consumption, "fatware", shortening devices' lifespan, etc.
 - [EcoSonar](https://github.com/Accenture/EcoSonar): Raising the awareness of delivery teams to environmental issues: enabling development teams to consider the environmental impact of digital technology during development and to promote knowledge of best eco-design and accessibility practices.
 - [EcoCode-ios](https://github.com/green-code-initiative/ecoCode-ios): Mobile apps running on top of battery-limited devices are more than others concerned by the reduction of their environmental footprint. Hence, we created ecoCode iOS, the version of ecoCode project fully dedicated to the iOS platform. It provides static code analyzers to highlight code structures that may have a negative ecological impact: energy over-consumption, "fatware", shortening devices' lifespan, etc.
-- [pruna](https://github.com/PrunaAI/pruna): An AI inference optimization framework. This projects integrates major model compression algorithms in an unified way, to enable developers use faster, smaller, more efficient and greener models with a minimal overhead. 
+- [pruna](https://github.com/PrunaAI/pruna): An AI inference optimization framework. This projects integrates major model compression algorithms in an unified way, to enable developers use faster, smaller, more efficient and greener models with a minimal overhead.
+- [Tech Carbon Standard](https://github.com/ScottLogic/Technology-Carbon-Standard): Proposed Technology Carbon Standard that aims to provide a unified structure for understanding, quantifying, and reducing carbon emissions from an organisation's technology landscape.
 
 ## Carbon Awareness
 > Learn behavior changes that will enable less carbon emissions.
