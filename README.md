@@ -85,6 +85,8 @@ Do you know of an incredible green software repository that we missed? Let us kn
 - [AI Wattch](https://github.com/AIWattch/browser-extension): AI Wattch is a Chrome browser extension that estimates the carbon emissions of your ChatGPT conversations in real time.
 - [EnergiBridge](https://github.com/tdurieux/EnergiBridge): A cross-platform tool designed to measure the energy consumption of software across various operating systems and hardware architectures. It simplifies the process of gathering energy data, aiding developers in creating more sustainable software solutions.
 - [TCS Estimator](https://github.com/ScottLogic/sl-tech-carbon-estimator): Mapping an organization’s technology emissions using the Tech Carbon Standard structure.
+- [CarbonLint](https://github.com/nishal21/CarbonLint):CarbonLint is a free, open-source developer sustainability tool that monitors your software's energy consumption and calculates its carbon footprint in real time. It works as both a desktop application (built with Tauri and Rust) and a CLI tool (published on npm as carbonlint-cli) that integrates directly into CI/CD pipelines.
+Software accounts for a growing share of global energy use. CarbonLint helps developers build greener software by providing visibility into the environmental cost of their code — from CPU and memory usage to estimated CO₂ emissions per coding session.
 
 ## Carbon Efficiency
 > Start making changes to your software and architecture to use less energy and emit less carbon.
