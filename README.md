@@ -98,6 +98,7 @@ Do you know of an incredible green software repository that we missed? Let us kn
 - [EcoCode-ios](https://github.com/green-code-initiative/ecoCode-ios): Mobile apps running on top of battery-limited devices are more than others concerned by the reduction of their environmental footprint. Hence, we created ecoCode iOS, the version of ecoCode project fully dedicated to the iOS platform. It provides static code analyzers to highlight code structures that may have a negative ecological impact: energy over-consumption, "fatware", shortening devices' lifespan, etc.
 - [pruna](https://github.com/PrunaAI/pruna): An AI inference optimization framework. This projects integrates major model compression algorithms in an unified way, to enable developers use faster, smaller, more efficient and greener models with a minimal overhead.
 - [Tech Carbon Standard](https://github.com/ScottLogic/Technology-Carbon-Standard): Proposed Technology Carbon Standard that aims to provide a unified structure for understanding, quantifying, and reducing carbon emissions from an organisation's technology landscape.
+- [Green CodeQL](https://github.com/green-code-initiative/green-codeql-queries): A first-of-its-kind repository of custom CodeQL queries to scan your codebase and detect sustainability problems, notably energy-related issues.
 
 ## Carbon Awareness
 > Learn behavior changes that will enable less carbon emissions.
