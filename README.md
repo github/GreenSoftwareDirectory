@@ -121,6 +121,7 @@ Do you know of an incredible green software repository that we missed? Let us kn
 - [Ethereum-nft-activity](https://github.com/kylemcdonald/ethereum-nft-activity): How much energy does it take to power popular Ethereum-backed CryptoArt platforms? And what emissions are associated with this energy use?
 - [Carbon.txt](https://github.com/thegreenwebfoundation/carbon.txt): A proposed convention for making it possible demonstrate that your infrastucture uses green power.
 - [CarbonRunner](https://carbonrunner.io/): CarbonRunner automatically shifts compute, whether AI training or GitHub Actions, to the lowest-carbon regions across AWS, Azure, GCP and Heata in real time, cutting emissions by up to 90% compared to default GitHub Actions. With built-in ESG reporting, companies gain clear visibility into their cloud emissions and costs, while workloads are scheduled with water scarcity in mind and never run on servers above 100gCO₂/kWh. CarbonRunner brings measurement, carbon efficiency and carbon-aware orchestration together in one platform, making it easy to track existing workflows on GitHub, GitLab or Bitbucket and run them more sustainably.
+- [Awesome AI Tokenomics](https://github.com/QuesmaOrg/awesome-ai-tokenomics): A curated list of tools, benchmarks, and research on measuring what AI tokens cost and where they are wasted, including energy and carbon measurement for LLM and agent workloads (per-query energy data, carbon trackers, and energy leaderboards).
   
 ---
 ### Contributing to GitHub's Green Software Directory
