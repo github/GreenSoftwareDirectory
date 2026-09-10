@@ -12,11 +12,11 @@ jobs:
     if: github.actor != 'dependabot[bot]' 
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
 
       - name: Link Checker
         id: lychee
-        uses: lycheeverse/lychee-action@v1  
+        uses: lycheeverse/lychee-action@2b973e86fc7b1f6b36a93795fe2c9c6ae1118621 # v1.10.0
 
       - name: Read link checker output
         id: read_links
@@ -37,7 +37,7 @@ jobs:
 
       - name: Create or Update Comment - No Broken Links
         if: env.lychee_exit_code == '0'  # Run if there are no broken links
-        uses: peter-evans/create-or-update-comment@v4
+        uses: peter-evans/create-or-update-comment@71345be0265236311c031f5c7866368bd1eff043 # v4.0.0
         with:
           issue-number: ${{ github.event.pull_request.number }}
           body: |
@@ -47,7 +47,7 @@ jobs:
 
       - name: Create or Update Comment - Summary of Broken Links
         if: env.lychee_exit_code != '0'  # Run if there are broken links
-        uses: peter-evans/create-or-update-comment@v4
+        uses: peter-evans/create-or-update-comment@71345be0265236311c031f5c7866368bd1eff043 # v4.0.0
         with:
           issue-number: ${{ github.event.pull_request.number }}
           body: |
